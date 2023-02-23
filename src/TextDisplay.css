@@ -1,0 +1,8 @@
+.Text-display {
+    border: thick solid green;
+    background-color: bisque;
+    color: black;
+    padding: 0.5rem;
+    border-radius: 15px;
+    margin: 0rem 1rem 1rem 1rem;
+}
